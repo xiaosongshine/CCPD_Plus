@@ -33,8 +33,13 @@ As each image in CCPD contains only a single license plate (LP). Therefore, we d
 
 ## UPdate on 10/03/2021. Add a new sub-dataset (CCPD-Yellow) which has an eight-digit license plate number.
 
-todo..
-finish soon
+Only with box:
+
+ - [BaiduYun Drive(code: i6am)](https://pan.baidu.com/s/1b2wQ04ubu419PRTTZUXHcw )
+
+The same annotation with CCPD will finish soon:
+
+ -
 
 ## Dataset Annotations
 
