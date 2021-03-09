@@ -1,5 +1,5 @@
 # CCPD_Plus
-Chinese City Parking Dataset（with Blue and Green add Yellow）
+Chinese City Parking Dataset（with Blue and Green add Yellow）[unofficial]
 
 
 ## UPdate on 10/03/2019. CCPD Dataset is now updated. We are confident that images in subsets of CCPD is much more challenging than before with over 300k images and refined annotations. 
@@ -67,9 +67,5 @@ ads = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'J', 'K', 'L', 'M', 'N', 'P', 'Q'
 
 ## Acknowledgement
 
-If you have any problems about CCPD, please contact detectrecog@gmail.com.
-
-
-
-Please cite the paper _《Towards End-to-End License Plate Detection and Recognition: A Large Dataset and Baseline》_, if you benefit from this dataset.
+Think to：https://github.com/detectRecog/CCPD
 
