@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CCPD2021_unchange</folder>
+	<filename>1_yello.jpg</filename>
+	<path>C:\Users\xiaos\Documents\CCPDs\CCPD2021_unchange\1_yello.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>甘K11111</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>282</ymin>
+			<xmax>370</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>
