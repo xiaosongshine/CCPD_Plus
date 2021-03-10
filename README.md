@@ -35,11 +35,11 @@ As each image in CCPD contains only a single license plate (LP). Therefore, we d
 
 Only with box:
 
- - [BaiduYun Drive(code: i6am)](https://pan.baidu.com/s/1b2wQ04ubu419PRTTZUXHcw )
+ - [BaiduYun Drive(code: i6am)](https://pan.baidu.com/s/1b2wQ04ubu419PRTTZUXHcw)
 
-The same annotation with CCPD will finish soon:
+The same annotation with CCPD:
 
- -
+ - [BaiduYun Drive(code: ve3l)](链接：https://pan.baidu.com/s/1BPPf0c_dftEyPJbTF3jrWg)
 
 ## Dataset Annotations
 
