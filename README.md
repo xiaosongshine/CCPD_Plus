@@ -39,7 +39,7 @@ Only with box:
 
 The same annotation with CCPD:
 
- - [BaiduYun Drive(code: ve3l)](链接：https://pan.baidu.com/s/1BPPf0c_dftEyPJbTF3jrWg)
+ - [BaiduYun Drive(code: ve3l)](https://pan.baidu.com/s/1BPPf0c_dftEyPJbTF3jrWg)
 
 ## Dataset Annotations
 
